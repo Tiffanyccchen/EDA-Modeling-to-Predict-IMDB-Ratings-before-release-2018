@@ -29,5 +29,5 @@ I also extract the essence and share it on [Kaggle Notebook](https://www.kaggle.
     * The analyzation results are written in  科技部大專學生研究計劃-前進奧斯卡的秘訣-電影評價的模型建立、探討與預測.pdf.
 
 ## Notice
-The project is written when I was a junior, therefore codes are rather messy.
+The project is written when I was a junior, therefore codes are rather messy.   
 However, it still showcase my ability to conduct a data analysis project from preprocessing to modeling.
