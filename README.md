@@ -2,7 +2,7 @@
 A Complete Research Project for the College Student Research Program of Ministry of Technology 
 
 ## Introduction
-EDA and Modeling to analyze and predict important factors of the IMDB score.
+EDA and Modeling to analyze and predict important factors of the IMDB score
 
 * Data:
    * Two sources:
